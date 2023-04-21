@@ -1,0 +1,15 @@
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/bin/Debug/net6.0/Aggregation_Containment
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/bin/Debug/net6.0/Aggregation_Containment.deps.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/bin/Debug/net6.0/Aggregation_Containment.runtimeconfig.json
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/bin/Debug/net6.0/Aggregation_Containment.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/bin/Debug/net6.0/Aggregation_Containment.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/Aggregation_Containment.csproj.AssemblyReference.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/Aggregation_Containment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/Aggregation_Containment.AssemblyInfoInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/Aggregation_Containment.AssemblyInfo.cs
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/Aggregation_Containment.csproj.CoreCompileInputs.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/Aggregation_Containment.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/refint/Aggregation_Containment.dll
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/Aggregation_Containment.pdb
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/Aggregation_Containment.genruntimeconfig.cache
+/Users/arshsingh/Desktop/Programming 3 Projects./Aggregation_Containment/Aggregation_Containment/obj/Debug/net6.0/ref/Aggregation_Containment.dll

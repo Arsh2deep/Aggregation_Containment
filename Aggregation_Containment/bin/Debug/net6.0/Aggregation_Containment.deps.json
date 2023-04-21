@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aggregation_Containment/1.0.0": {
+        "runtime": {
+          "Aggregation_Containment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aggregation_Containment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
